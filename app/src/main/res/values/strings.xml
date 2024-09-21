@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">clickIntent</string>
+    <string name="Button">Click Link</string>
+    <string name="changeText">you clicked on Google link</string>
+    <string name="title_name">click the button then we redirect to Google </string>
+</resources>
